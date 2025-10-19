@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-hussien-096291221/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kottp6)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portifolio-ylf4.vercel.app/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kottbhussein)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kottpkamal@gmail.com)
 
 </div>
@@ -109,7 +110,7 @@ const mahmoudHussien = {
 **🛠️ Tech Stack:**
 `React` `Redux` `Firebase` `Tailwind CSS` `JWT Auth` `Cloudinary`
 
-🔗 [View on GitHub](#) | [Watch Demo](#)
+🔗 [View on GitHub](https://github.com/kottp6/HandMade_Website_GraduationProject) | [Watch Demo](https://www.linkedin.com/posts/mahmoud-hussein-0bb055242_graduationproject-reactjs-firebase-activity-7355932378105602048-Ocqk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwp108BQ3qGUZG-G2cUIIkoBXGE6x2CfFc)
 
 </details>
 
@@ -129,7 +130,7 @@ Modern e-commerce platform with advanced features
 **🛠️ Tech Stack:**
 `React` `Context API` `React Query` `Tailwind CSS` `JWT`
 
-🔗 [View on GitHub](#) | [Watch Demo](#)
+🔗 [View on GitHub](https://github.com/kottp6/FreshCart) | [Watch Demo](https://www.linkedin.com/posts/mahmoud-hussein-0bb055242_graduationproject-reactjs-firebase-activity-7355932378105602048-Ocqk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwp108BQ3qGUZG-G2cUIIkoBXGE6x2CfFc)
 
 </details>
 
@@ -149,7 +150,7 @@ Angular-based movie browsing platform with TMDb API integration
 **🛠️ Tech Stack:**
 `Angular 17` `TypeScript` `Bootstrap` `TMDb API`
 
-🔗 [View on GitHub](#) | [Watch Demo](#)
+🔗 [View on GitHub](https://github.com/kottp6/Movie_Application) | [Watch Demo](https://www.linkedin.com/posts/mahmoud-hussein-0bb055242_angular-iti-authentication-activity-7327341383776661505-cugd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwp108BQ3qGUZG-G2cUIIkoBXGE6x2CfFc)
 
 </details>
 
@@ -168,7 +169,7 @@ Real-time note-taking app with CRUD operations
 **🛠️ Tech Stack:**
 `React` `REST API` `CSS3`
 
-🔗 [View on GitHub](#) | [Watch Demo](#)
+🔗 [View on GitHub](https://github.com/kottp6/NoteApplicationReact) | [Watch Demo](https://www.linkedin.com/posts/mahmoud-hussein-0bb055242_note-application-with-react-js-activity-7262839965783388163-Qac9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwp108BQ3qGUZG-G2cUIIkoBXGE6x2CfFc)
 
 </details>
 
@@ -176,20 +177,20 @@ Real-time note-taking app with CRUD operations
 <summary><b>🌐 Corporate & Marketing Websites</b></summary>
 <br>
 
-### 🎯 [MovicEg Website](https://moviceg.com)
+### 🎯 [MovicEg Website](https://www.moviceg.com/)
 Corporate website with animations and responsive design
 
-### 🎓 [Tech-seeds Learning Platform](https://tech-seeds.com)
+### 🎓 [Tech-seeds Learning Platform](https://tech-seeds.vercel.app/)
 Modern learning platform with multi-page navigation
 
-### 💼 [Echo System](https://echosystem.com)
+### 💼 [Echo System](https://echo-system-gamma.vercel.app/)
 Digital marketing company showcase
 
 ### 👓 Smart Assistant Glasses (SAG)
 Accessibility-focused system with admin dashboard  
 `Angular` `TypeScript` `Bootstrap`
 
-🔗 [View on GitHub](#) | [Watch Demo](#)
+🔗 [View on GitHub](https://github.com/kottp6/SmartAssistantGlassesCode) | [Watch Demo](https://www.linkedin.com/posts/mahmoud-hussein-0bb055242_sag-smartassistantglasses-aiforaccessibility-activity-7085287650022035457-ZIgo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwp108BQ3qGUZG-G2cUIIkoBXGE6x2CfFc)
 
 </details>
 
@@ -266,6 +267,7 @@ Technologies Learned:
 
 | Platform | Certification |
 |:---:|:---|
+| ![ITI](https://img.shields.io/badge/ITI-Institute-red?style=flat&logo=google-classroom&logoColor=white) | Frontend Developer & Cross Platform Development |
 | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | React – The Complete Guide (2025) |
 | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white) | JavaScript, React, SQL |
 | ![Maharatech](https://img.shields.io/badge/Maharatech-FF6B6B?style=flat) | Database Management |
@@ -324,8 +326,9 @@ Ready to collaborate on your next big project! 🚀
 📧 **Email:** kottpkamal@gmail.com  
 📱 **Phone:** +20 128 884 5234  
 🔗 **LinkedIn:** [Mahmoud Hussein](https://www.linkedin.com/in/mahmoud-hussien-096291221/)  
-💻 **GitHub:** [@MahmoudHussien7](https://github.com/kottp6)  
+💻 **GitHub:** [@MahmoudHussien](https://github.com/kottp6)  
 🌐 **Portfolio:** [mahmoudhussien.me](https://my-portifolio-ylf4.vercel.app/)
+🎨 **Behance:** [@MahmoudHussein](https://www.behance.net/kottbhussein)
 
 ### Open for:
 ✅ Frontend Development Projects  
